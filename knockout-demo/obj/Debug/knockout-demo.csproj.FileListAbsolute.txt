@@ -1,0 +1,5 @@
+c:\users\onursevin\documents\visual studio 2012\Projects\knockout-demo\knockout-demo\bin\knockout-demo.dll
+c:\users\onursevin\documents\visual studio 2012\Projects\knockout-demo\knockout-demo\bin\knockout-demo.pdb
+c:\users\onursevin\documents\visual studio 2012\Projects\knockout-demo\knockout-demo\obj\Debug\knockout-demo.csprojResolveAssemblyReference.cache
+c:\users\onursevin\documents\visual studio 2012\Projects\knockout-demo\knockout-demo\obj\Debug\knockout-demo.dll
+c:\users\onursevin\documents\visual studio 2012\Projects\knockout-demo\knockout-demo\obj\Debug\knockout-demo.pdb
